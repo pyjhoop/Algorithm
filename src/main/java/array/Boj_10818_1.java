@@ -3,7 +3,7 @@ package array;
 import java.util.*;
 import java.io.*;
 
-public class boj10818_1 {
+public class Boj_10818_1 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
